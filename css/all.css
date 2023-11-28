@@ -1,0 +1,154 @@
+.body{
+	font-family:'PT Sans', sans-serif;
+	color:#010101;
+}
+/*header start */
+.header{
+	background-color: #fcdb00;
+    padding: 15px 0;
+}
+.menu ul li a {
+	padding:0 30px !important;
+	color:#000 !important;
+	font-weight:700px;
+	font-size:22px;
+	transition:.5s;
+}
+.menu ul li :last-child a {
+	padding-right:0!important;
+}
+.menu ul li a:hover {
+	color:#fff !important;
+}
+/*header end */
+/* slider start */
+.slider {
+	background-color: #fcdb00;
+	padding-bottom:100px;
+}
+.s_content{
+	margin-top:40px;
+}
+.s_content h1 {
+	font-weight:700px;
+	font-size:32px ;
+	margin-bottom:20px;
+}
+.s_content h2{
+	font-weight:400px;
+	font-size:20px ;
+	color:#313841 !important;
+	margin-bottom:20px;
+	
+}
+.s_content p {
+	font-size: 15px ;
+	color:#555555 !important;
+	
+}
+.apple li{
+	font-size:30px;
+	margin-right:28px !important;
+}
+.s-img {}
+.s-img img {}
+.cid{
+	bottom:-78px;
+}
+.cid li {
+	width: 13px;
+	height:13px;
+	border-radius:50%;
+   /*background-color:#dd1515;*/
+}
+.cid .active{
+	/*background-color:green;*/
+}
+/* slider end */
+/*feature start */
+.feature{
+	padding-top:80px;
+	padding-bottom:60px;
+}
+.c_title {}
+.c_h1 {
+	font-weight:700px;
+	font-size:32px;
+	margin-bottom:15px;
+}
+.c_p{
+	font-size:20px;
+	color:#313841;
+	margin-bottom:50px;
+}
+.single{
+	margin-bottom:50px;
+}
+.s_img a{	
+    font-size: 50px;
+    color: #010101 !important;
+}
+.s_img img {}
+.s_text{}
+.s_text h2 {
+	font-size:22px;
+}
+.s_text p {
+	font-size:16px;
+	color:#898989;
+	letter-spacing:1px;
+}
+/*feature end */
+/* contact start*/
+.contact{
+	padding-top:80px;
+	padding-bottom:100px;
+    background-color: #010101 !important;
+}
+.yellow{
+	color:#fcdb00 ;
+}
+.ash{
+	color:#898989 ;
+}
+.email_form{
+	height:50px;
+	font-size:16;
+	color:898989;
+}
+.btu_form{
+	font-weight:700px;
+	font-size:16px;
+	color:#010101;
+	height:50px;
+	text-align:center;
+	background-color:#fcdb00;
+	text-transform:uppercase;
+}
+.icon {
+	font-size:30px;
+	margin-top:30px;
+	padding-right:10px;
+	color:#fcdb00 ;
+}
+.icon a{
+	color:#fcdb00 ;
+}
+/* contact end*/
+.ltd{
+	background-color:#010101 !important;
+}
+.Shop {
+	margin-bottom:50px;
+}
+.h_text h1 {
+	font-size:10px;
+	color:#fff;
+	text-transform:uppercase;
+	margin-bottom:2px;
+}
+.h_text p {
+	font-size:10px;
+	color:#fff;
+	margin-bottom:2px;
+}

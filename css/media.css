@@ -1,0 +1,151 @@
+/* Extra small devices (portrait phones, less than 576)*/
+@media (max-width: 575.98px){
+/* header start */
+.menu ul li a {
+	text-align: right;
+	font-size:18px;
+	padding:0 0px !important;
+}
+/* header end */
+/* slider start */
+.s_content{
+	margin-top:7px;
+}
+.s_content h1 {
+	font-size:26px ;
+	margin-bottom:20px;
+}
+.s_content h2{
+	font-size:17px ;
+	margin-bottom:20px;
+	
+}
+.s_content p {
+	font-size: 15px;
+	
+}
+.cid{
+	bottom:-70px;
+}
+.cid li {
+	width: 11px;
+	height:11px;
+}
+
+	/* slider end */
+		/* features */
+.single{
+	margin-bottom:20px;
+	text-align:center;
+}
+.feature{
+	padding-top:50px;
+	padding-bottom:30px;
+}
+.c_h1 {
+	font-size:28px;
+	margin-bottom:10px;
+}
+.c_p{
+	font-size:15px;
+	margin-bottom:30px;
+}
+.btu_form{
+	margin-top:10px;
+}
+	/* features */
+.contact{
+	padding-bottom:80px;
+}
+.h_text p {
+	font-size:8px;
+	margin-bottom:2px;
+}
+.sw {
+	margin-top:8px;
+}
+}
+/*Small devices (landscape phone, 576px and up)*/
+@media (min-width: 576px) and (max-width:767.98px){
+/* header start */
+.menu ul li a {
+	text-align: right;
+	font-size:18px;
+	padding:0 0px !important;
+}
+/* header end */
+/* slider start */
+.cid{
+	bottom:-70px;
+}
+.cid li {
+	width: 11px;
+	height:11px;
+}
+	/* slider end */
+	/* features */
+.single{
+   margin-bottom:20px;
+	text-align:center;
+}
+	/* features */
+
+}
+/*Medium devices (tablets, 768px and up)*/
+@media (min-width: 768px) and (max-width:991.8px){
+/* header start */
+.menu ul li a {
+	text-align: right;
+	font-size:18px;
+	padding:0 0px !important;
+}
+/* header end */
+/* slider start */
+.s_content{
+	margin-top:20px;
+}
+.s_content h1 {	
+	font-size:30px ;
+}
+	/* slider end */
+}
+/*Large devices (desktops, 992px and up)*/
+@media (min-width: 992px) and (max-width:1199.98px){
+	/* slider start */
+
+	/* slider end */
+}
+/*Extra large devices (large desktops, 576px and up)*/
+@media (min-width: 1200px) and (max-width:1299.98px){
+	
+}
+/*Extra large devices (large desktops, 576px and up)*/
+@media (min-width: 1400px) and (max-width:1499.98px){
+	/* slider start */
+
+	/* slider end */
+}
+/*Extra large devices (large desktops, 576px and up)*/
+@media (min-width: 2000px) and (max-width:2999.98px){
+/* header start */
+.menu ul li a {
+	
+	font-size:35px;
+	padding:0 35px !important;
+}
+.navbar-brand{
+	font-size:35px;
+}
+/* header end */
+/* slider start */
+.s_content h1 {
+	font-size:40px ;
+}
+.s_content h2{
+	font-size:24px;
+}
+.s_content p{
+	font-size:16px;
+}
+	/* slider end */
+}
